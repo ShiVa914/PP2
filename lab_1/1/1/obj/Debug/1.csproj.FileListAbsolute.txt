@@ -1,0 +1,7 @@
+C:\Users\Валерий\Desktop\programming\1\1\bin\Debug\1.exe.config
+C:\Users\Валерий\Desktop\programming\lab1\1\1\bin\Debug\1.exe.config
+C:\Users\Валерий\Desktop\programming\lab1\1\1\bin\Debug\1.exe
+C:\Users\Валерий\Desktop\programming\lab1\1\1\bin\Debug\1.pdb
+C:\Users\Валерий\Desktop\programming\lab1\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\Валерий\Desktop\programming\lab1\1\1\obj\Debug\1.exe
+C:\Users\Валерий\Desktop\programming\lab1\1\1\obj\Debug\1.pdb

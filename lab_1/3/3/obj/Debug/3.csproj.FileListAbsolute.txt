@@ -1,0 +1,6 @@
+C:\Users\Валерий\Desktop\programming\lab1\3\3\bin\Debug\3.exe.config
+C:\Users\Валерий\Desktop\programming\lab1\3\3\bin\Debug\3.exe
+C:\Users\Валерий\Desktop\programming\lab1\3\3\bin\Debug\3.pdb
+C:\Users\Валерий\Desktop\programming\lab1\3\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\Валерий\Desktop\programming\lab1\3\3\obj\Debug\3.exe
+C:\Users\Валерий\Desktop\programming\lab1\3\3\obj\Debug\3.pdb

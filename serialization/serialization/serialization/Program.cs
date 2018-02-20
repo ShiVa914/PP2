@@ -12,16 +12,16 @@ namespace serializetoXML
     [Serializable]
     public class Complex
     {
-        public int l1;
-        public int l2;
+        public int a;
+        public int b;
         public Complex()
         {
 
         }
-        public Complex(int _l1, int _l2)
+        public Complex(int a1, int b1)
         {
-            l1 = _l1;
-            l2 = _l2;
+            a = a1;
+            b = b1;
         }
     }
 
@@ -29,7 +29,7 @@ namespace serializetoXML
     {
         static void Main(string[] args)
         {
-            Complex complex = new Complex(3, 5);
+            Complex complex = new Complex(5, 9);
             Console.WriteLine("object created");
             XmlSerializer formatter = new XmlSerializer(typeof(Complex));
             using (FileStream fs = new FileStream("complex.xml", FileMode.Create))
@@ -42,7 +42,7 @@ namespace serializetoXML
             {
                 Complex newComplex = (Complex)formatter.Deserialize(fs);
                 Console.WriteLine("object deserialized");
-                Console.WriteLine("L1 - {5} : L2 - {2}");
+                Console.WriteLine("b - {5} : b1 - {9}");
                 Console.ReadKey();
             }
         }

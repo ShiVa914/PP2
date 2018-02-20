@@ -24,8 +24,7 @@ namespace Binary
         }
         public override string ToString()
         {
-            //return ($"a - {10} : b - {21}");
-            return a + "/" + b;
+            return ($"a - {10} : b - {21}");
         }
         public static void SerializeToBinary()
         {
