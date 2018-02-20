@@ -1,0 +1,5 @@
+C:\Users\Валерий\Desktop\programming\serialization\serialization\serialization\bin\Debug\serialization.exe.config
+C:\Users\Валерий\Desktop\programming\serialization\serialization\serialization\bin\Debug\serialization.exe
+C:\Users\Валерий\Desktop\programming\serialization\serialization\serialization\bin\Debug\serialization.pdb
+C:\Users\Валерий\Desktop\programming\serialization\serialization\serialization\obj\Debug\serialization.exe
+C:\Users\Валерий\Desktop\programming\serialization\serialization\serialization\obj\Debug\serialization.pdb

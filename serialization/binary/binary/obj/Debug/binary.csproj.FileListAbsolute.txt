@@ -1,0 +1,6 @@
+C:\Users\Валерий\Desktop\programming\serialization\binary\binary\bin\Debug\binary.exe.config
+C:\Users\Валерий\Desktop\programming\serialization\binary\binary\obj\Debug\binary.csprojResolveAssemblyReference.cache
+C:\Users\Валерий\Desktop\programming\serialization\binary\binary\bin\Debug\binary.exe
+C:\Users\Валерий\Desktop\programming\serialization\binary\binary\bin\Debug\binary.pdb
+C:\Users\Валерий\Desktop\programming\serialization\binary\binary\obj\Debug\binary.exe
+C:\Users\Валерий\Desktop\programming\serialization\binary\binary\obj\Debug\binary.pdb

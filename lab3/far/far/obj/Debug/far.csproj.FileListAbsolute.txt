@@ -1,0 +1,6 @@
+C:\Users\Валерий\Desktop\programming\lab3\far\far\bin\Debug\far.exe.config
+C:\Users\Валерий\Desktop\programming\lab3\far\far\bin\Debug\far.exe
+C:\Users\Валерий\Desktop\programming\lab3\far\far\bin\Debug\far.pdb
+C:\Users\Валерий\Desktop\programming\lab3\far\far\obj\Debug\far.csprojResolveAssemblyReference.cache
+C:\Users\Валерий\Desktop\programming\lab3\far\far\obj\Debug\far.exe
+C:\Users\Валерий\Desktop\programming\lab3\far\far\obj\Debug\far.pdb
